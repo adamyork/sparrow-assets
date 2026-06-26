@@ -1,2 +1,10 @@
 /*
   Access-Control-Allow-Origin: *
+  Access-Control-Allow-Methods: GET, HEAD, OPTIONS
+  Access-Control-Allow-Headers: Origin, X-Requested-With, Content-Type, Accept
+
+/*.wav
+  Content-Type: audio/wav
+
+/*.mp3
+  Content-Type: audio/mpeg
